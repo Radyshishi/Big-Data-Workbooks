@@ -3,7 +3,7 @@
 
 “The first big breakthrough in our understanding of the mechanism of association was an improvement in a method of measurement” - Daniel Kahneman, 2011 Thinking Fast and Slow (p. 52)
 
-## GOAL
+## GOAL a
 ---------
 
 The goal of the book is to bring computer scientists and social scientists together to provide a practically oriented overview of the analytical and statistical tools associated with big data for social science students. We use real data used for real world policy problems to analyze some of the vast new sets of data on human beings. We show them how these data can be collected, integrated, and analyzed in a scientific fashion.
